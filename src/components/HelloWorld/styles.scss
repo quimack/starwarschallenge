@@ -1,0 +1,13 @@
+@import '@/assets/_variables.scss';
+
+.hello{
+    background-color: rgba($bg-300, 0.7);
+    color: $text-200;
+    width: 80%;
+    font-family: 'star-jedi-hollow';
+}
+
+h1{
+    font-size: 4em;
+    color: $primary-200;
+}
